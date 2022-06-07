@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\WinFormsEvents\bin\Debug\WinFormsEvents.exe.config
+C:\Users\user\source\repos\WinFormsEvents\bin\Debug\WinFormsEvents.exe
+C:\Users\user\source\repos\WinFormsEvents\bin\Debug\WinFormsEvents.pdb
+C:\Users\user\source\repos\WinFormsEvents\obj\Debug\WinFormsEvents.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\WinFormsEvents\obj\Debug\WinFormsEvents.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\WinFormsEvents\obj\Debug\WinFormsEvents.Properties.Resources.resources
+C:\Users\user\source\repos\WinFormsEvents\obj\Debug\WinFormsEvents.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WinFormsEvents\obj\Debug\WinFormsEvents.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WinFormsEvents\obj\Debug\WinFormsEvents.exe
+C:\Users\user\source\repos\WinFormsEvents\obj\Debug\WinFormsEvents.pdb
+C:\Users\user\source\repos\WinFormsEvents\obj\Debug\WinFormsEvents.MainForm.resources
+C:\Users\user\source\repos\WinFormsEvents\obj\Debug\WinFormsEvents.ListEvForm.resources
+C:\Users\user\source\repos\WinFormsEvents\obj\Debug\WinFormsEvents.AddEvForm.resources

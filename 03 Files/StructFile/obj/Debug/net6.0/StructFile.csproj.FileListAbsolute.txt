@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\StructFile\obj\Debug\net6.0\StructFile.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\StructFile\obj\Debug\net6.0\StructFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\StructFile\obj\Debug\net6.0\StructFile.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\StructFile\obj\Debug\net6.0\StructFile.AssemblyInfo.cs
+C:\Users\user\source\repos\StructFile\obj\Debug\net6.0\StructFile.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StructFile\bin\Debug\net6.0\StructFile.exe
+C:\Users\user\source\repos\StructFile\bin\Debug\net6.0\StructFile.deps.json
+C:\Users\user\source\repos\StructFile\bin\Debug\net6.0\StructFile.runtimeconfig.json
+C:\Users\user\source\repos\StructFile\bin\Debug\net6.0\StructFile.dll
+C:\Users\user\source\repos\StructFile\bin\Debug\net6.0\ref\StructFile.dll
+C:\Users\user\source\repos\StructFile\bin\Debug\net6.0\StructFile.pdb
+C:\Users\user\source\repos\StructFile\obj\Debug\net6.0\StructFile.dll
+C:\Users\user\source\repos\StructFile\obj\Debug\net6.0\ref\StructFile.dll
+C:\Users\user\source\repos\StructFile\obj\Debug\net6.0\StructFile.pdb
+C:\Users\user\source\repos\StructFile\obj\Debug\net6.0\StructFile.genruntimeconfig.cache
